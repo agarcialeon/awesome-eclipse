@@ -25,11 +25,14 @@
 	</div>
 </div>
 
-# :bookmark_tabs: Contents
+# :bookmark_tabs: Contents 
 
 - [Open-source Plugins](#open-source-plugins)
   - [General Purpose](#general-purpose)
-  - [Collaboration](#collaboration)
+  	- [Collaboration](#collaboration)
+	- [Themes and styling](#themes-styling)
+	- [Linters](#linters)
+	- [Databases](#databases)
 	- [Visualisation tools](#visualisation-tools)
 	- [Language support](#language-support)
 - [Closed-source plugins](#closed-source-plugins)
@@ -68,21 +71,31 @@ Interesting resource: :cool:
 
 ## Open-source Plugins <a name="open-source-plugins"></a>
 
-### General Purpose
-* [Vrapper](https://github.com/vrapper/vrapper) : Thorough Vim emulation inside Eclipse editors
+### General Purpose <a name="general-purpose"></a>
+* [Vrapper](https://github.com/vrapper/vrapper) : Thorough Vim emulation inside Eclipse editors.
 * [Relative number ruler](https://github.com/matf/relativenumberruler). Especially useful for and works with Vrapper.
-* [Indent Guide](http://sschaef.github.io/IndentGuide/) : A visual guide based on indent level
-* [Font-size](https://code.google.com/p/eclipse-fonts/) : Easily control font size
+* [Indent Guide](http://sschaef.github.io/IndentGuide/) : A visual guide based on indent level.
+* [Font-size](https://code.google.com/p/eclipse-fonts/) : Easily control font size.
 * [Quick Search](https://spring.io/blog/2013/07/11/eclipse-quick-search) : Simple search, almost instant results that update as you type. Note, the update site location has changed. New location is listed [here](https://spring.io/tools/sts/all).
-* [AnyEditTools](https://github.com/iloveeclipse/anyedittools) : More customization for text-based editors
+* [AnyEditTools](https://github.com/iloveeclipse/anyedittools) : More customization for text-based editors.
 
 ### Collaboration <a name="collaboration"></a>
-* [Saros](http://www.saros-project.org/) : Edit collaboratively over XMPP
+* [Saros](http://www.saros-project.org/) : Edit collaboratively over XMPP.
+
+### Themes and styling <a name="themes-styling"></a>
+* [Eclipse Color Themes](http://www.eclipsecolorthemes.org/) : Good choice of editor color schemes.
+* [Darkest Dark Theme](https://marketplace.eclipse.org/content/darkest-dark-theme) : A great overall dark theme for the IDE.
+
+### Linters <a name="linters"></a>
+* [Sonar Linter](http://www.sonarlint.org/eclipse/) : On the fly linter.
+
+### Databases <a name="databases"></a>
+* [DBeaver](https://dbeaver.io/download/) : Plugin and standalone SQL client with lots of cool utilities.
 
 ### Visualisation tools <a name="visualisation-tools"></a>
-* [KlassViz](https://github.com/OpenKieler/klassviz): Class visualisation
+* [KlassViz](https://github.com/OpenKieler/klassviz): Class visualisation.
 * [JDT Codemining](https://github.com/angelozerr/jdt-codemining)
-* [jGRASP](https://www.jgrasp.org/index.html) - Created to provide software visualizations that work in conjunction with the debugger such as [Control Structure Diagrams](https://www.jgrasp.org/csd.html), [UML Class Diagrams](https://www.jgrasp.org/uml.html) and [Object Viewer](https://www.jgrasp.org/viewers.html)
+* [jGRASP](https://www.jgrasp.org/index.html) - Created to provide software visualizations that work in conjunction with the debugger such as [Control Structure Diagrams](https://www.jgrasp.org/csd.html), [UML Class Diagrams](https://www.jgrasp.org/uml.html) and [Object Viewer](https://www.jgrasp.org/viewers.html).
 
 ### Language support <a name="language-support"></a>
 * [Scala](http://scala-ide.org/)
@@ -91,6 +104,9 @@ Interesting resource: :cool:
 * [Clojure](https://github.com/laurentpetit/ccw)
 * [Xtend](https://www.eclipse.org/xtend/)
 * [Rust](https://github.com/RustDT/RustDT)
+
+### Verification
+* [Coqoon](https://github.com/coqoon/coqoon) : Support of side-by-side proofs and code.
 
 ## Closed-source plugins <a name="closed-source-plugins"></a>
 :construction:
@@ -108,4 +124,4 @@ See [Code of Conduct](https://github.com/agarcialeon/awesome-eclipse/blob/master
 
 See the state of the project in the [kanban board](https://github.com/agarcialeon/awesome-eclipse/projects/1).
 
-[:top: Back to Top](#awesome-unity)
+[:top: Back to Top](#awesome-categories)

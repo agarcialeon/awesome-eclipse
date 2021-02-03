@@ -97,6 +97,18 @@ Interesting resource: :cool:
 * [JDT Codemining](https://github.com/angelozerr/jdt-codemining)
 * [jGRASP](https://www.jgrasp.org/index.html) - Created to provide software visualizations that work in conjunction with the debugger such as [Control Structure Diagrams](https://www.jgrasp.org/csd.html), [UML Class Diagrams](https://www.jgrasp.org/uml.html) and [Object Viewer](https://www.jgrasp.org/viewers.html).
 
+### Documentation  <a name="documentation"></a>
+* [JAutodoc](http://jautodoc.sourceforge.net/) : Automatically add javadoc and file headers to your source code.
+
+### Languages and platforms  <a name="language-platforms"></a>
+* [Webclipse](https://www.genuitec.com/products/webclipse/) : Plugin for modern web development.
+* [PDT](https://eclipse.org/pdt/) : PHP IDE.
+* [PyDev](http://www.pydev.org/) : Python IDE.
+* [Counterclockwise](http://doc.ccw-ide.org/documentation.html) : Clojure IDE.
+* [EclipseFP](http://eclipsefp.github.io/) : Haskell IDE.
+* [ScalaIDE](http://scala-ide.org/) : IDE for Scala.
+* [e(fx)clipse](https://www.eclipse.org/efxclipse) : JavaFX Tooling and Runtime for Eclipse.
+
 ### Language support <a name="language-support"></a>
 * [Scala](http://scala-ide.org/)
 * [Kotlin](https://github.com/JetBrains/kotlin-eclipse/)

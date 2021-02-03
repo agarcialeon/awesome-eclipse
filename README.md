@@ -1,8 +1,72 @@
-# awesome-eclipse [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+<div align="center">
+	<div>
+		<!--<a href="https://github.com/agarcialeon/awesome-unity/">
+			<img width="500" src="awesome-unity.png" alt="Awesome Unity">
+		</a>-->
+	</div>
+  <br>
+	<div>
+		<h1>Awesome Eclipse</h1>		
+		<a href="https://github.com/sindresorhus/awesome"> 
+			<img src="https://awesome.re/badge-flat.svg" alt="Awesome">
+		</a>					
+		<p>
+			List of awesome plugins and other resources for the <a href="https://eclipse.org/">Eclipse IDE</a>. 
+			<br>
+			Free and open-source resources are prioritized over paid when possible.
+			<br><br>
+			Suggestions and contributions are always welcome!
+			<br>			
+			Make sure to read the <a href="https://github.com/agarcialeon/awesome-eclipse/blob/master/CONTRIBUTING.md"> contribution guidelines </a> for more information before submitting a pull request.
 
-List of awesome plugins and other resources for the [Eclipse IDE](https://eclipse.org/)
+[![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/cc-0.svg)](https://forthebadge.com)
+		</p>
+	</div>
+</div>
 
-## Open-source Plugins
+# :bookmark_tabs: Contents
+
+- [Open-source Plugins](#open-source-plugins)
+  - [General Purpose](#general-purpose)
+  - [Collaboration](#collaboration)
+	- [Visualisation tools](#visualisation-tools)
+	- [Language support](#language-support)
+- [Closed-source plugins](#closed-source-plugins)
+
+# Considerations <a name="considerations"></a>
+
+There is always a posibility that this repository becomes outdated, mostly because new resources or plugins appear in the future. This is because of the nature of technlogy and this can be avoided, so in order to keep this project as updated as possible with what other users know, please create a new issue to include or remove what you think is necessary.
+
+Another point is the categorization of the resources provided here. Since some of them can be included in different categories at the same time a cross reference will be created in the form of a hastag to notify you (the visitor) that maybe you need to look in a different place of this repository or in other external site to find more info.
+
+Finally, you need to know that this is not the only repository on Github that gathers Eclipse related resources. This is just another try to get the best of all the existing content out there for Eclipse developers. So please, be grateful with all the other developers that put effort collection their respective lists of resources by visiting their repositories (they will be listed below).
+
+I hope all of you find this helpful. Let's go with the contents.
+
+# Legend <a name="legend"></a>
+
+## Icons <a name="icons"></a>
+
+Free resource: :free:
+
+Paid resource: :moneybag:
+
+Interesting resource: :cool: 
+
+## Tags <a name="tags"></a>
+
+(UNMAINTAINED) - The repository hasn't been updated for a long time.
+
+(DEPRECATED) - Another solution or package has been released that does the same and it's more recent.
+
+(ARCHIVED) - The repository is read only for learning purposes.
+
+(#[CATEGORY]) - Where [CATEGORY] represents a category of the document. Means that the resource is related with another category too. Any resource can contain many category tags.
+
+# :bookmark: Categories <a name="categories"></a>
+
+## Open-source Plugins <a name="open-source-plugins"></a>
 
 ### General Purpose
 * [Vrapper](https://github.com/vrapper/vrapper) : Thorough Vim emulation inside Eclipse editors
@@ -12,16 +76,15 @@ List of awesome plugins and other resources for the [Eclipse IDE](https://eclips
 * [Quick Search](https://spring.io/blog/2013/07/11/eclipse-quick-search) : Simple search, almost instant results that update as you type. Note, the update site location has changed. New location is listed [here](https://spring.io/tools/sts/all).
 * [AnyEditTools](https://github.com/iloveeclipse/anyedittools) : More customization for text-based editors
 
-### Collaboration
+### Collaboration <a name="collaboration"></a>
 * [Saros](http://www.saros-project.org/) : Edit collaboratively over XMPP
 
-### Visualisation tools
+### Visualisation tools <a name="visualisation-tools"></a>
 * [KlassViz](https://github.com/OpenKieler/klassviz): Class visualisation
 * [JDT Codemining](https://github.com/angelozerr/jdt-codemining)
 * [jGRASP](https://www.jgrasp.org/index.html) - Created to provide software visualizations that work in conjunction with the debugger such as [Control Structure Diagrams](https://www.jgrasp.org/csd.html), [UML Class Diagrams](https://www.jgrasp.org/uml.html) and [Object Viewer](https://www.jgrasp.org/viewers.html)
 
-
-### Language support
+### Language support <a name="language-support"></a>
 * [Scala](http://scala-ide.org/)
 * [Kotlin](https://github.com/JetBrains/kotlin-eclipse/)
 * [Markdown](https://github.com/winterstein/Eclipse-Markdown-Editor-Plugin)
@@ -29,10 +92,20 @@ List of awesome plugins and other resources for the [Eclipse IDE](https://eclips
 * [Xtend](https://www.eclipse.org/xtend/)
 * [Rust](https://github.com/RustDT/RustDT)
 
-## Closed-source plugins
-(TODO)
+## Closed-source plugins <a name="closed-source-plugins"></a>
+:construction:
 
 ## Contributing
-Submit a PR, or just raise an issue, to add your favourite plugins or resources.
 
-This work is distributed under the [CC0 Universal](https://creativecommons.org/publicdomain/zero/1.0/) license.
+Contributions are very welcome!
+Please have a look at the [CONTRIBUTING](https://github.com/agarcialeon/awesome-eclipse/blob/master/CONTRIBUTING.md) guidelines.
+
+# Code of Conduct <a name="code-of-conduct"></a>
+
+See [Code of Conduct](https://github.com/agarcialeon/awesome-eclipse/blob/master/CODE-OF-CONDUCT.md).
+
+# :memo: To be done <a name="to-do"></a>
+
+See the state of the project in the [kanban board](https://github.com/agarcialeon/awesome-eclipse/projects/1).
+
+[:top: Back to Top](#awesome-unity)
